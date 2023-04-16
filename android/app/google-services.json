@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807078414197",
+    "project_id": "rukaisproject",
+    "storage_bucket": "rukaisproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807078414197:android:778dc01007ac876e99353c",
+        "android_client_info": {
+          "package_name": "com.example.rukais"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807078414197-00mntrjh7dlgdfdekm2siblrcr1s8ogj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDimrRqHB6vyY8aagbg9Q2cseu-fc0HMLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807078414197-00mntrjh7dlgdfdekm2siblrcr1s8ogj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
